@@ -1,1 +1,2 @@
-
+# Novi kod za ispravljanje greške
+print("Popravljen bug u funkciji kreiranja zadatka!")
