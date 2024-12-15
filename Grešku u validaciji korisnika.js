@@ -1,1 +1,1 @@
-git add validation.js
+git commit -m "Praćenje bugova #2"
